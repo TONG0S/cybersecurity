@@ -12,7 +12,9 @@ chrome插件：沉浸式翻译
 
 pdf阅读工具
 drawboard：【笔记+阅读】https://www.drawboard.com/download
+
 知云翻译：https://www.zhiyunwenxian.cn/
+
 Adobe Acrobat DC
 
 
